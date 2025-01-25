@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theanm0l
-- 👀 I’m interested in Android development 
-- 🌱 I’m currently learning flutter , JAVA
+- 👀 I’m interested in Android development , Penetration Testing (Web, API, Thick Client and Mobile Application)
+- 🌱 I’m currently learning Thick Client, IT Infra testing , IOT and Cloud
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me thakuranmol418@gmail.com
 
